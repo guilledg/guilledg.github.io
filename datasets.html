@@ -8,9 +8,8 @@ title: Datasets
 <ul>
   {% for dataset in site.datasets %}
     <li>
-      <h2>{{ dataset.name }}</h2>
-      <h3>{{ dataset.field }}</h3>
-      <p>{{ dataset.content | markdownify }}</p>
+      <h2><a href="{{ dataset.url }}">{{ dataset.title }}</a></h2>
+      <p>{{ dataset.excerpt | markdownify }}</p>
     </li>
   {% endfor %}
 </ul>
