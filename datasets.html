@@ -1,13 +1,18 @@
 ---
-layout: home
+layout: page
 title: Datasets
 ---
 
 <ul>
   {% for dataset in site.datasets %}
     <li>
-      <h2><a href="{{ dataset.url }}">{{ dataset.name }}</a></h2>
-      <p>{{ dataset.field | markdownify }}</p>
+      <h2><a href="{{ dataset.url }}">{{ dataset.title }}</a></h2>
+      <p> 
+        <b>Keywords:</b>
+        {% for tag in dataset.tags %}
+          <span class="tag">{{ tag }}</span>{% unless forloop.last %}, {% endunless %}
+        {% endfor %}
+      </p>
     </li>
   {% endfor %}
 </ul>

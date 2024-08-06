@@ -1,12 +1,11 @@
-title: DH UNAB
+title: Home
 author:
-  name: JG Diaz
+  name: Data Hub UNAB
   email: jose.diaz@unab.cl
   
 # The `>` after `description:` means to ignore line-breaks until next key.
 # If you want to omit the line-break after the end of text, use `>-` instead.
-description: >
-  First version of the DH UNAB website.
+#description: 
 
 # Build settings
 
@@ -35,7 +34,7 @@ collections:
     output: true
 
 # Set to `true` to show excerpts on the homepage.
-#show_excerpts: false
+show_excerpts: true
 
 # Minima specific settings, which are only available from Minima 3.0 onward.
 minima:

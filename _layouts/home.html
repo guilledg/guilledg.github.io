@@ -38,6 +38,7 @@ layout: base
       {%- endfor -%}
     </ul>
 
+
     {% if site.paginate %}
       <div class="pager">
         <ul class="pagination">
@@ -58,4 +59,22 @@ layout: base
 
   {%- endif -%}
 
+
+  {%- if datasets.size > 0 -%}
+    <ul class="post-list">
+      {%- for dbase in datasets -%}
+      <li>
+        <h3>
+          <a class="post-link" href="{{ dbase.url | relative_url }}">
+            {{ dbase.title | escape }}
+          </a>
+        </h3>
+        {%- if site.show_excerpts -%}
+          {{ dbase.excerpt }}
+        {%- endif -%}
+      </li>
+      {%- endfor -%}
+    </ul>
+
+  {%- endif -%}
 </div>
