@@ -3,8 +3,16 @@ title: Electoral Partisan Observers in Argentinian Elections
 field: Political Economy
 layout: page
 tags:
-    - voting
-    - partisan observers
+    - elections
+    - electoral observers
+
+unit: polling-station
+
+frequency: not a time-series/panel data
+
+type: administrative data
+
+organization: UNAB-IPE
 ---
 
 **Brief Description:** polling station level electoral results and presence of partisan observers. Variables included are: votes by party, blank/invalid/challenged votes, number of registered voters, number of voters that turned out on election day, observers presence and their party affiliation. The data was coded manually from raw electoral forms from Argentina’s 2011 national election by researchers currently affiliated to UNAB-IPE. 
@@ -21,4 +29,4 @@ tags:
 
 **Related Fields:** political econonomy, economic development
 
-**Keywords:** elections, electoral fraud
+**Keywords:** elections, electoral observers

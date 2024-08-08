@@ -10,9 +10,11 @@ tags:
 unit: transaction level
 
 type: administrative data
+
+organization: Servicio Nacional de Aduanas
 ---
 
-**Brief Description:** administrative data on individual declarations of import/export operations - Documentos Unicos de Salida (DUS), Declaraciones de Ingreso (DIN). Contains information about the date of the operation, identity of the importer/exporter (including name and tax number), country of origin, customs port of entry, port of shipment, description, value, and quantity of the goods, taxes.
+**Brief Description:** administrative data on individual declarations of import/export operations - Documentos Unicos de Salida (DUS), Declaraciones de Ingreso (DIN), from National Customs Service (Chile). Contains information about the date of the operation, identity of the importer/exporter (including name and tax number), country of origin, customs port of entry, port of shipment, description, value, and quantity of the goods, taxes.
 
 **Unit/Frequency:** transaction level, by import or export operation.
 
