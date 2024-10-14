@@ -11,25 +11,34 @@ tags:
 
 unit: contract 
 
-frequency: not a time-series/panel data 
+frequency: daily or less 
 
 type: administrative data
 
-organization: Dirección General de Obras Públicas
+organization: Dirección General de Obras Públicas, Ministerio de Obras Públicas
 ---
 
-**Brief Description:** administrative data on government public works projects carried on by the Directorate. Contains information about public works projects (id, location, current value, start/end dates, stage), auctions (project id, number of bidders, bid, award), and contract (dates, projected and current value, tax id of contractor, award method, payments and fees, etc.)
+**Brief Description:** administrative data on public works contracts from the General Directorate of Public Works (Chile). Contains statistical information about public works projects, contracts, and associated payments, dates of execution (including ongoing projects).
 
-**Unit/Frequency:** project, auction, contract
+**Source:** Ministry of Public Works, Chile
 
-**Geographical coverage:** Chile.
+**Sector:** Government
 
-**Time period coverage:** ongoing, starting in 2010. Updates every few months.
+**Type:** administrative
 
-**Accessible to (under what conditions):** available under Creative Commons Attribution License from [datos.gob](https://datos.gob.cl/organization/dgop) (repositorio de datos abiertos centralizado del Estado).
+**Unit:** Contract
 
-**Format:** csv text files (`.csv`).
+**Frequency:** daily or less
 
-**Related Fields:** procurement
+**Time period coverage:**  2010 - ongoing
 
-**Keywords:** procurement, auctions, contracts, infrastructure
+**Geographical coverage:** Country
+
+**Accesibility:** freely available under Open Data Commons Attribution License from datos.gob (repositorio de datos abiertos centralizado del Estado).
+
+**Format:** various CSV files
+
+**Related Fields:** procurement, contracts
+
+**Keywords:** procurement, public works, concessions, contracts
+
