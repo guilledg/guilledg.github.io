@@ -16,29 +16,29 @@ type: administrative
 organization: Directorio de Transporte Público Metropolitano (DTPM) 
 ---
 
-Brief Description: Operational and Transactional Data from Santiago Public Transportation System. Minute-by-minute location of each vehicle, daily transaction level data (ticket purchases), pre-established parameters of the transportation services (frequency, routes, schedules, etc.). 
+**Brief Description:** Operational and Transactional Data from Santiago Public Transportation System. Minute-by-minute location of each vehicle, daily transaction level data (ticket purchases), pre-established parameters of the transportation services (frequency, routes, schedules, etc.). 
 
-Source: Directorio de Transporte Público Metropolitano (DTPM)
+**Source:** Directorio de Transporte Público Metropolitano (DTPM)
 
-Sector: transportation
+**Sector:** transportation
 
-Type: administrative
+**Type:** administrative
 
-Unit: real time location by bus, transaction
+**Unit:** real time location by bus, transaction
 
-Frequency: real time, daily or less
+**Frequency:** real time, daily or less
 
-Time period coverage: real time recording, historical data available upon request to the DTPM
+**Time period coverage:** real time recording, historical data available upon request to the DTPM
 
-Geographical coverage: Santiago de Chile metropolitan area
+**Geographical coverage:** Santiago de Chile metropolitan area
 
-Accesibility: freely available, by request to DTPM. 
+**Accesibility:** freely available, by request to DTPM. 
 
-Format: varios text formats
+**Format:** varios text formats
 
-Related Fields: transportation, contracts
+**Related Fields:** transportation, contracts
 
-Keywords: urban transport, operational data, transaction data
+**Keywords:** urban transport, operational data, transaction data
 
 
 
