@@ -24,7 +24,7 @@ organization: National Service of Fishing and Aquaculture (Sernapesca)
 
 **Type:** administrative
 
-**Unit:** by port
+**Unit:** species-port-agent
 
 **Frequency:** monthly/yearly
 
@@ -34,7 +34,7 @@ organization: National Service of Fishing and Aquaculture (Sernapesca)
 
 **Accesibility:** public information
 
-**Format:** multiple excel files
+**Format:** csv files
 
 **Related Fields:** industrial economics, environmental economics 
 
