@@ -4,6 +4,8 @@ title: Data Catalogue
 permalink: /catalogue/
 ---
 
+# Datasets from Academic Research
+
 1. Chilean Tax Authority (Servicio de Impuestos Internos)
 
 - Corporate tax filings:
@@ -20,9 +22,11 @@ permalink: /catalogue/
 
 - Key context: the 2011 tax reform increased reporting requirements and monitoring of transfer pricing, in line with OECD standards. This policy change has been used to evaluate its impact on tax compliance and profit shifting (Bustos et al., 2019, 2022)
 
+
 2. Aduanas (Customs)
 
 - Transaction-level data on the universe of imports and exports, including information on the product, unit price, quantity, and country of acquisition (for imports) or country of destination (for exports). 
+
 
 3. Electricity Market Data from National Electric Coordinator (Coordinador Eléctrico Nacional)
 
@@ -35,6 +39,7 @@ permalink: /catalogue/
 
 - Key context: Chile uses cost-based dispatch to clear demand and supply in its spot market. The market data is publicly available, at unusually high level of detail. An important policy change is the interconnection between subnational systems which was pre-announced 3 years in advance, and the staggered implementation of the integation (between November 2017 and June 2019). This has been used to study the effects of market integration on investment behavior (Gonzáles et al. 2023)
 
+
 4. Encuesta de Protección Social (EPS) / Historia Laboral y Seguridad Social (HLLS)
 
 - Ministry of Labor
@@ -43,7 +48,8 @@ permalink: /catalogue/
   - Educational attainment (college graduation, teaching certification).
   - Work history (employment transitions since 1981).
   - Wages and labor force participation.
-    
+
+
 5. Encuesta Longitudinal de Docentes (ELD)
 
 - Ministry of Education
@@ -51,7 +57,8 @@ permalink: /catalogue/
   - Work sector choices (public municipal vs private voucher schools).
   - Wages within teaching sectors.
   - Layoff information.
-    
+
+ 
 6. Electoral participation, registration, and outcomes from the National Electoral Service (SERVEL)
 
 - Administrative participation data: anonymized data of electoral participation, gender, birth year and week, and municipality of residence (during election date) at the voter level. It also includes registration year for people that registered voluntarily prior to the 2012 reform that imposed automatic universal registration. This data is available at least since the 2013 national election.
