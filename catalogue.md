@@ -78,4 +78,4 @@ Gonzales, Luis E., Koichiro Ito, and Mar Reguant. 2023. “The Investment Effect
 Felipe González, Mounu Prem. 2018. “Can television bring down a dictator? Evidence from Chile’s “No” campaign.” Journal of Comparative Economics, 46, no. 1, 349-361. https://doi.org/10.1016/j.jce.2017.11.005 
 
 Kaplan, Ethan, Fernando Saltiel, and Sergio Urzúa. 2023. "Voting for Democracy: Chile's Plebiscito and the Electoral Participation of a Generation." American Economic Journal: Economic Policy 15 (3): 438–64.
-![image](https://github.com/user-attachments/assets/1145412b-5ac7-4e0f-b2b7-97239723c5c3)
+
