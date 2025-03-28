@@ -27,6 +27,7 @@ plugins:
 # in order as they should show up.
 header_pages:
   - about.md
+  - catalogue.md
   - datasets.html
 
 collections:
