@@ -1,0 +1,13 @@
+---
+layout: page
+title: Catalogue
+---
+<h1><a>From academic research</a></h1>
+
+<ol>
+  {% for cat in site.catdata %}
+    <li>
+      <h3><a href="{{ cat.url }}">{{ cat.title }}</a></h3>  
+    </li>
+  {% endfor %}
+</ol>
