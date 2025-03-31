@@ -4,10 +4,10 @@ title: Catalogue
 ---
 <h1>From academic research</h1>
 
-<ol>
+<ul>
   {% for cat in site.catdata %}
     <li>
       <h3><a href="{{ cat.url }}">{{ cat.title }}</a></h3>  
     </li>
   {% endfor %}
-</ol>
+</ul>
